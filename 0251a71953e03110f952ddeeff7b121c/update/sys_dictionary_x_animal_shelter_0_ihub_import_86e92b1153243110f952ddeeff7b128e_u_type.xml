@@ -47,7 +47,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-08 19:16:47</sys_created_on>
-        <sys_id>263d2bd153243110f952ddeeff7b12e8</sys_id>
         <sys_name>type</sys_name>
         <sys_package display_value="Animal Shelter Adoption Tracker" source="x_animal_shelter_0">0251a71953e03110f952ddeeff7b121c</sys_package>
         <sys_policy/>

@@ -2,7 +2,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="phone_number" table="x_animal_shelter_0_adoption_application">
         <active>true</active>
         <array>false</array>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation/>
         <choice>0</choice>
@@ -47,7 +47,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-08 18:51:15</sys_created_on>
-        <sys_id>6867239d53e03110f952ddeeff7b12a9</sys_id>
         <sys_name>Phone Number</sys_name>
         <sys_package display_value="Animal Shelter Adoption Tracker" source="x_animal_shelter_0">0251a71953e03110f952ddeeff7b121c</sys_package>
         <sys_policy/>

@@ -3,7 +3,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>name</element>
-            <list_id display_value="x_animal_shelter_0_breed" element="NULL" name="x_animal_shelter_0_breed" parent="NULL" relationship="NULL" sys_domain="global" view="121ff37271003110958b9673d279bc4f">cc9f2f5553243110f952ddeeff7b12b5</list_id>
+            <list_id display_value="x_animal_shelter_0_breed" element="NULL" name="x_animal_shelter_0_breed" parent="NULL" relationship="NULL" sys_domain="global" view="b699d343b4232110320f8dc279c8043e">cc9f2f5553243110f952ddeeff7b12b5</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -40,7 +40,7 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-08-08 19:26:59</sys_updated_on>
             <sys_user/>
-            <view display_value="Reference List" name="sys_ref_list">121ff37271003110958b9673d279bc4f</view>
+            <view display_value="Reference List" name="sys_ref_list">b699d343b4232110320f8dc279c8043e</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

@@ -2,7 +2,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="type" table="x_animal_shelter_0_breed">
         <active>true</active>
         <array>false</array>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation/>
         <choice>3</choice>
@@ -47,7 +47,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-08 18:55:10</sys_created_on>
-        <sys_id>b54823dd53e03110f952ddeeff7b1246</sys_id>
         <sys_name>Type</sys_name>
         <sys_package display_value="Animal Shelter Adoption Tracker" source="x_animal_shelter_0">0251a71953e03110f952ddeeff7b121c</sys_package>
         <sys_policy/>
